@@ -17,13 +17,13 @@ Real time torque control
 
 # Authors and Affiliations
 
-Ahmet Talha Kansizoglu Ozyegin University
+Ahmet Talha Kansizoglu, Ozyegin University
 
-Emre Sariyildiz University of Wollongong
+Emre Sariyildiz, University of Wollongong
 
-Sinan Coruk Ozyegin University
+Sinan Coruk, Ozyegin University
 
-Barkan Ugurlu Ozyegin University
+Barkan Ugurlu, Ozyegin University
 
 
 # Corresponding contributor
