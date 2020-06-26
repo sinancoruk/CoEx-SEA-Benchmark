@@ -37,4 +37,4 @@ MIT license
 
 Benchmarking Torque Control Strategies for a Torsion based Series Elastic Actuator
 
-IEEE Robotics and Automation Magazine
+IEEE Robotics and Automation Magazine (yet to be published)
